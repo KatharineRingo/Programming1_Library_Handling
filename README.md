@@ -2,9 +2,13 @@
 #Project final for COP 2006 - Natalie Herrera, Katharine Ringo, and Maria Sebastian Tomas 
 
 #include <iostream>
+
 #include <vector>
+
 #include <string>
+
 #include <cstdlib>
+
 #include <ctime>
 
 using namespace std;
